@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc27ef69-781b-40d4-8eaa-572338b80f1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJqx0lX6FAfhRlrJxgZu6xIrzP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BST traversal - Find keys in a range" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BST traversal - Find keys in a range" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.scratch_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc27ef69-781b-40d4-8eaa-572338b80f1a" name="Default Changelist" comment="" />
+      <created>1582671287145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582671287145</updated>
+      <workItem from="1582671290248" duration="20739000" />
+      <workItem from="1582826061804" duration="1352000" />
+      <workItem from="1582846847300" duration="26000" />
+      <workItem from="1582920442412" duration="50000" />
+      <workItem from="1582921818000" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="192" key="FileChooserDialogImpl" timestamp="1582920490975">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="466" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582920490975" />
+    <state width="1292" height="211" key="GridCell.Tab.0.bottom" timestamp="1582837006190">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582837006190" />
+    <state width="1292" height="211" key="GridCell.Tab.0.center" timestamp="1582837006190">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582837006190" />
+    <state width="1292" height="211" key="GridCell.Tab.0.left" timestamp="1582837006190">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582837006190" />
+    <state width="1292" height="211" key="GridCell.Tab.0.right" timestamp="1582837006190">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582837006190" />
+    <state width="1292" height="262" key="GridCell.Tab.1.bottom" timestamp="1582760427023">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582760427023" />
+    <state width="1292" height="262" key="GridCell.Tab.1.center" timestamp="1582760427023">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582760427023" />
+    <state width="1292" height="262" key="GridCell.Tab.1.left" timestamp="1582760427023">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582760427023" />
+    <state width="1292" height="262" key="GridCell.Tab.1.right" timestamp="1582760427023">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="262" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582760427023" />
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1582846847970">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1582846847970" />
+    <state x="247" y="173" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582744213812">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="247" y="173" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1368.872@0.0.1368.872" timestamp="1582744213812" />
+    <state x="347" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1582674913827">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1582674913827" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint log-message="true" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" language="Python" />
+        <watch expression="i &lt; end" language="Python" />
+        <watch expression="i &gt; begin" language="Python" />
+        <watch expression="array_of_keys" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BST_traversal___Find_keys_in_a_range$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1582753754930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/BST_traversal___Find_keys_in_a_range$main.coverage" NAME="main Coverage Results" MODIFIED="1582832280855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

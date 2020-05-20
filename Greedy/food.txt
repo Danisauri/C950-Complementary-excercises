@@ -1,0 +1,101 @@
+Milk, buttermilk, dried (.25 cup / 30.0 grams): 10.2900, 1.7340, 14.7000, 116.1000
+Cheese, parmesan, dry grated, reduced fat (1 oz / 28.35 grams): 5.6700, 5.6700, 0.3884, 75.1275
+Spices, cloves, ground (1 tbsp / 6.5 grams): 0.3881, 0.8450, 4.2595, 17.8100
+Babyfood, dinner, spaghetti and tomato and meat, toddler (1 jar / 170.0 grams): 9.0100, 1.7000, 18.3600, 127.5000
+Babyfood, juice, orange (1 bottle Gerber Second Foods (4 fl oz) / 125.0 grams): 0.7500, 0.3750, 12.7500, 56.2500
+Infant formula, NESTLE, GOOD START SUPREME, with iron, powder (1 scoop / 8.7 grams): 0.9831, 2.2707, 4.9868, 44.2830
+Babyfood, fortified cereal bar, fruit filling (1 bar / 19.0 grams): 1.0317, 1.0070, 13.0397, 65.3600
+Salad dressing, blue or roquefort cheese dressing, commercial, regular (1 cup / 245.0 grams): 3.3565, 125.1950, 11.6865, 1185.8000
+Margarine, industrial, non-dairy, cottonseed, soy oil (partially hydrogenated ), for flaky pastries (1 tbsp / 14.0 grams): 0.2660, 11.2280, 0.0000, 99.9600
+Chicken, broilers or fryers, separable fat, raw (1 unit (yield from 1 lb ready-to-cook chicken) / 32.0 grams): 1.1936, 21.7440, 0.0000, 201.2800
+Chicken, capons, meat and skin and giblets and neck, cooked, roasted (1 unit (yield from 1 lb ready-to cook capon) / 218.0 grams): 61.8030, 25.4406, 0.0872, 492.6800
+Chicken, canned, no broth (1 can (5 oz) yields / 125.0 grams): 31.6250, 10.1250, 1.1250, 231.2500
+Chicken, skin (drumsticks and thighs), cooked, roasted (1 lb / 453.0 grams): 75.0621, 199.2747, 0.0000, 2092.8600
+Soup, cream of chicken, canned, condensed (1 can (10.75 oz) / 305.0 grams): 7.2590, 17.5985, 21.8380, 274.5000
+Soup, stock, chicken, home-prepared (1 cup / 240.0 grams): 6.0480, 2.8800, 8.4720, 86.4000
+CAMPBELL'S Red and White, Cream of Broccoli Soup, condensed (1 serving 1/2 cup / 124.0 grams): 1.9964, 4.9972, 12.0032, 90.5200
+CAMPBELL'S CHUNKY Soups, Split Pea 'N' Ham Soup (1 cup / 245.0 grams): 12.0050, 2.4990, 29.9880, 191.1000
+Soup, bean with bacon, condensed, single brand (1 serving 1/2 cup / 128.0 grams): 8.3200, 2.6880, 23.0400, 149.7600
+Liver cheese, pork (1 slice / 38.0 grams): 5.7760, 9.7280, 0.7980, 115.5200
+Salami, Italian, pork and beef, dry, sliced, 50% less sodium (1 serving 5 slices / 28.0 grams): 6.1040, 7.3920, 1.7920, 98.0000
+Cereals ready-to-eat, wheat germ, toasted, plain (1 cup / 113.0 grams): 32.8830, 12.0910, 56.0480, 431.6600
+Cereals ready-to-eat, GENERAL MILLS, COUNT CHOCULA (.75 cup (1 NLEA serving) / 27.0 grams): 1.4580, 1.2663, 22.8150, 103.4100
+Rice and Wheat cereal bar (1 bar / 22.0 grams): 1.9998, 1.9998, 16.0006, 89.9800
+Cereals, oats, instant, fortified, maple and brown sugar, dry (1 packet / 43.0 grams): 3.9775, 2.0339, 32.9681, 158.2400
+Carissa, (natal-plum), raw (1 cup slices / 150.0 grams): 0.7500, 1.9500, 20.4450, 93.0000
+Lime juice, canned or bottled, unsweetened (1 cup / 246.0 grams): 0.6150, 0.5658, 16.4574, 51.6600
+Pineapple juice, frozen concentrate, unsweetened, diluted with 3 volume water (1 cup / 250.0 grams): 1.0000, 0.0750, 31.6750, 127.5000
+Guava nectar, canned, with added ascorbic acid (1 cup / 251.0 grams): 0.2259, 0.1506, 40.7875, 158.1300
+Pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean and fat, raw (1 lb / 453.6 grams): 91.9901, 50.0774, 0.0000, 843.6960
+Pork, cured, ham, whole, separable lean and fat, unheated (1 cup / 140.0 grams): 25.8860, 25.9280, 0.0840, 344.4000
+Pork, cured, ham -- water added, rump, bone-in, separable lean only, unheated (3 oz / 85.0 grams): 13.1155, 2.9580, 0.5695, 80.7500
+Pork, Leg Cap Steak, boneless, separable lean and fat, raw (1 piece / 231.0 grams): 49.9884, 7.8309, 0.0000, 284.1300
+Broccoli, raw (1 NLEA serving / 148.0 grams): 4.1736, 0.5476, 9.8272, 50.3200
+Cucumber, with peel, raw (1 cucumber (8-1/4") / 301.0 grams): 1.9565, 0.3311, 10.9263, 45.1500
+Parsley, fresh (10 sprigs / 10.0 grams): 0.2970, 0.0790, 0.6330, 3.6000
+USDA Commodity, Potato wedges, frozen (100 grams): 2.7000, 2.2000, 25.5000, 123.0000
+Taro shoots, cooked, without salt (1 cup slices / 140.0 grams): 1.0220, 0.1120, 4.4800, 19.6000
+Seaweed, spirulina, dried (1 cup / 112.0 grams): 64.3664, 8.6464, 26.7680, 324.8000
+Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, with salt (1 cup kernels / 165.0 grams): 5.1315, 1.2210, 36.8445, 155.1000
+Squash, winter, acorn, cooked, boiled, mashed, with salt (1 cup, mashed / 245.0 grams): 1.6415, 0.1960, 21.5355, 83.3000
+Fennel, bulb, raw (1 bulb / 234.0 grams): 2.9016, 0.4680, 17.0820, 72.5400
+Nuts, chestnuts, european, dried, peeled (1 oz / 28.35 grams): 1.4203, 1.1085, 22.2349, 104.6115
+Nuts, mixed nuts, oil roasted, with peanuts, lightly salted (1 oz / 28.35 grams): 5.6813, 15.2948, 5.9677, 172.0845
+Beef, brisket, whole, separable lean only, trimmed to 0" fat, all grades, cooked, braised (1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) / 264.0 grams): 78.5400, 26.6112, 0.0000, 575.5200
+Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, all grades, cooked, grilled (1 steak / 363.0 grams): 101.1318, 37.6431, 0.0000, 769.5600
+Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, all grades, raw (1 lb / 453.6 grams): 87.6809, 86.4562, 0.0000, 1152.1440
+Beef, chuck, clod roast, separable lean only, trimmed to 0" fat, select, cooked, roasted (3 oz / 85.0 grams): 23.8765, 4.9470, 0.0000, 146.2000
+Beverages, ZEVIA, cola, caffeine free (1 can / 355.0 grams): 0.0000, 0.0000, 4.0115, 0.0000
+Beverages, tea, green, ready-to-drink, diet (1 cup / 269.0 grams): 0.0000, 0.0000, 0.0000, 0.0000
+Beverages, Malted drink mix, natural, powder, prepared with whole milk (1 cup (8 fl oz) / 265.0 grams): 10.2290, 9.5930, 27.1095, 233.2000
+Beverages, WENDY'S, tea, ready-to-drink, unsweetened (1 fl oz / 29.6 grams): 0.0651, 0.0000, 0.0000, 0.2960
+Fish, herring, Atlantic, kippered (1 oz, boneless / 28.35 grams): 6.9684, 3.5069, 0.0000, 61.5195
+Fish, whiting, mixed species, raw (1 fillet / 92.0 grams): 16.8452, 1.2052, 0.0000, 82.8000
+Fish, tuna, skipjack, fresh, cooked, dry heat (.5 fillet / 154.0 grams): 43.4434, 1.9866, 0.0000, 203.2800
+Beans, small white, mature seeds, cooked, boiled, without salt (1 cup / 179.0 grams): 16.0563, 1.1456, 46.1999, 254.1800
+Winged beans, mature seeds, cooked, boiled, without salt (1 cup / 172.0 grams): 18.2664, 10.0448, 25.6968, 252.8400
+Beans, adzuki, mature seed, cooked, boiled, with salt (1 cup / 230.0 grams): 17.2960, 0.2300, 56.9710, 294.4000
+WORTHINGTON FriPats, frozen, unprepared (1 patty / 64.0 grams): 15.1680, 5.8240, 5.1200, 133.7600
+Lamb, domestic, rib, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted (1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) / 159.0 grams): 41.5944, 21.1629, 0.0000, 368.8800
+Veal, shoulder, whole (arm and blade), separable lean only, cooked, roasted (1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) / 251.0 grams): 64.7831, 16.6162, 0.0000, 426.7000
+Veal, variety meats and by-products, lungs, cooked, braised (1 unit, cooked (yield from 1 lb raw meat) / 300.0 grams): 56.2200, 7.9200, 0.0000, 312.0000
+Lamb, Australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8" fat, raw (3 oz / 85.0 grams): 17.3825, 4.3350, 0.0000, 113.0500
+Lamb, New Zealand, imported, square-cut shoulder chops, separable lean only, raw (4 oz / 113.0 grams): 23.3006, 10.2604, 0.0000, 185.3200
+Bagels, oat bran (1 small bagel (3" dia) / 69.0 grams): 7.3830, 0.8280, 36.7770, 175.9500
+Cake, white, dry mix, special dietary (includes lemon-flavored) (1 package (8 oz) / 227.0 grams): 6.8100, 19.0680, 180.6920, 901.1900
+Crackers, whole-wheat (1 serving / 28.0 grams): 2.9624, 3.9564, 19.4740, 119.5600
+Phyllo dough (1 oz / 28.35 grams): 2.0129, 1.7010, 14.9121, 84.7665
+Cake, yellow, light, dry mix (1 package (18.50 oz) / 524.0 grams): 24.6280, 28.8200, 440.6840, 2116.9600
+Bread, pound cake type, pan de torta salvadoran (1 cake square / 622.0 grams): 43.9132, 108.5390, 319.0238, 2425.8000
+Snacks, pretzels, hard, whole-wheat including both salted and unsalted (2 oz / 57.0 grams): 6.3270, 1.4820, 46.3410, 206.3400
+Baking chocolate, MARS SNACKFOOD US, M&M's Milk Chocolate Mini Baking Bits (1 serving 0.5 oz, about 1 tbsp / 14.0 grams): 0.6692, 3.2704, 9.5760, 70.2800
+Candies, REESE'S, FAST BREAK, milk chocolate peanut butter and soft nougats (2 oz bar / 56.0 grams): 4.8496, 13.1152, 34.4960, 265.4400
+Frozen yogurts, chocolate, soft-serve (.5 cup (4 fl oz) / 72.0 grams): 2.8800, 4.3200, 17.9280, 115.2000
+Ice creams, BREYERS, No Sugar Added, Vanilla Chocolate Strawberry (1 serving 1/2 cup / 68.0 grams): 2.5228, 4.2568, 14.7560, 97.2400
+Rice flour, white, unenriched (1 cup / 158.0 grams): 9.4010, 2.2436, 126.6054, 578.2800
+Cornmeal, degermed, unenriched, yellow (1 cup / 157.0 grams): 11.1627, 2.7475, 124.7365, 580.9000
+Fast foods, chicken fillet sandwich, plain with pickles (1 sandwich / 187.0 grams): 30.4436, 20.9253, 39.0643, 467.5000
+TACO BELL, Original Taco with beef, cheese and lettuce (1 each taco / 69.0 grams): 6.1134, 8.7630, 13.6965, 158.0100
+McDONALD'S, Hotcakes and Sausage (1 item / 192.0 grams): 14.9952, 24.0000, 72.0960, 564.4800
+DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked (1 pie 22.1 oz / 548.0 grams): 72.4456, 70.4728, 157.1116, 1550.8400
+Burrito, beef and bean, microwaved (1 burrito cooked / 116.0 grams): 10.1268, 13.8504, 45.1820, 345.6800
+Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0" fat, select, raw (1 steak / 243.0 grams): 47.0934, 22.4046, 0.0000, 403.3800
+Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0" fat, select, raw (1 piece / 429.0 grams): 76.6623, 74.1312, 0.0000, 973.8300
+Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled (1 steak / 251.0 grams): 62.3735, 47.7402, 0.0000, 680.2100
+Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean only, Aust. marble score 9, raw (1 roast / 377.0 grams): 66.3897, 107.8597, 1.7342, 1244.1000
+Beef, New Zealand, imported, brisket point end, separable lean only, raw (4 oz / 114.0 grams): 23.8488, 5.2668, 0.0000, 142.5000
+Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0" fat, select, raw (4 oz / 114.0 grams): 25.1142, 5.6886, 0.0570, 151.6200
+Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8" fat, choice, raw (1 lb / 453.6 grams): 99.6106, 22.9068, 0.0000, 630.5040
+Snacks, granola bar, QUAKER, chewy, 90 Calorie Bar (1 bar / 24.0 grams): 1.0008, 1.9992, 19.0008, 97.9200
+KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Original (2 waffles / 70.0 grams): 4.6200, 5.8100, 26.3200, 167.3000
+KEEBLER, READY CRUST, Shortbread Pie Crust (.125 crust 9" crust / 21.0 grams): 0.9240, 4.8510, 14.5110, 105.4200
+MOTHER'S, Halloween Circus Animals Cookies (6 cookies / 29.0 grams): 1.1020, 7.3370, 19.7490, 149.0600
+Bread, roll, Mexican, bollilo (1 piece / 98.0 grams): 10.4370, 5.6840, 54.6546, 311.6400
+VAN'S, The Perfect 10, Crispy Six Whole Grain + Four Seed Baked Crackers, Gluten Free (3 crackers / 8.4 grams): 0.6409, 1.5901, 5.6759, 39.5640
+Salisbury steak with gravy, frozen (1 patty / 63.0 grams): 4.3974, 6.5961, 4.2714, 93.8700
+Oil, walrus (Alaska Native) (100 grams): 0.0000, 100.0000, 0.0000, 900.0000
+Sea lion, Steller, heart (Alaska Native) (100 grams): 17.0000, 3.3000, 1.0000, 102.0000
+Restaurant, Latino, tripe soup (1 cup / 200.0 grams): 17.2200, 5.1600, 8.1400, 148.0000
+Cereals ready-to-eat, POST, GREAT GRAINS Crunchy Pecan Cereal (.75 cup (1 NLEA serving) / 52.0 grams): 4.6800, 5.4600, 37.9600, 209.5600
+Soybean, curd cheese (1 cup / 225.0 grams): 28.1250, 18.2250, 15.5250, 339.7500
+Syrup, Cane (1 serving / 21.0 grams): 0.0000, 0.0000, 15.3594, 56.4900
